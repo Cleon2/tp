@@ -104,6 +104,17 @@
       "headingKeywords": {}
     },
     {
+      "src": "UGDraft.md",
+      "headings": {
+        "lovebook-user-guide-draft": "LoveBook User Guide Draft",
+        "features": "Features",
+        "listing-current-dates-list": "Listing current dates : list",
+        "deletion-of-dates-delete": "Deletion of dates: delete",
+        "editing-your-profile-editp": "Editing your profile editP"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
