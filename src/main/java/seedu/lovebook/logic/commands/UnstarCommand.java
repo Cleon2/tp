@@ -14,7 +14,7 @@ import seedu.lovebook.model.date.Star;
 
 
 /**
- * Star a Date identified using it's displayed index from the LoveBook.
+ * Star a date identified using it's displayed index from the LoveBook.
  */
 public class UnstarCommand extends Command {
     public static final String COMMAND_WORD = "unstar";
